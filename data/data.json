@@ -1,0 +1,1032 @@
+{
+  "aulas": [
+    {
+      "Id": 1,
+      "Nombre": "Aula 1",
+      "Modulo": "Módulo 1"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Aula 3",
+      "Modulo": "Módulo 1"
+    },
+    {
+      "Id": 4,
+      "Nombre": "Aula 4",
+      "Modulo": "Módulo 1"
+    },
+    {
+      "Id": 5,
+      "Nombre": "Salón Ejecutivo",
+      "Modulo": "Módulo 1"
+    },
+    {
+      "Id": 6,
+      "Nombre": "Salón de Enderezado",
+      "Modulo": "Módulo 1"
+    }
+  ],
+  "recursos": [
+    {
+      "Id": 1,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56413",
+      "Estado": "OK"
+    },
+    {
+      "Id": 2,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72879",
+      "Estado": "OK"
+    },
+    {
+      "Id": 3,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72933",
+      "Estado": "OK"
+    },
+    {
+      "Id": 4,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72927",
+      "Estado": "OK"
+    },
+    {
+      "Id": 5,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72548",
+      "Estado": "OK"
+    },
+    {
+      "Id": 6,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72902",
+      "Estado": "OK"
+    },
+    {
+      "Id": 7,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72432",
+      "Estado": "OK"
+    },
+    {
+      "Id": 8,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56631",
+      "Estado": "OK"
+    },
+    {
+      "Id": 9,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72905",
+      "Estado": "OK"
+    },
+    {
+      "Id": 10,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72954",
+      "Estado": "OK"
+    },
+    {
+      "Id": 11,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72892",
+      "Estado": "OK"
+    },
+    {
+      "Id": 12,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56422",
+      "Estado": "OK"
+    },
+    {
+      "Id": 13,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72912",
+      "Estado": "OK"
+    },
+    {
+      "Id": 14,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72943",
+      "Estado": "OK"
+    },
+    {
+      "Id": 15,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56434",
+      "Estado": "OK"
+    },
+    {
+      "Id": 16,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56417",
+      "Estado": "OK"
+    },
+    {
+      "Id": 17,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56420",
+      "Estado": "OK"
+    },
+    {
+      "Id": 18,
+      "Aula_ID": 1,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-53047",
+      "Estado": "OK"
+    },
+    {
+      "Id": 19,
+      "Aula_ID": 1,
+      "Tipo": "Pizarrón",
+      "Codigo": "I-304-9775",
+      "Estado": "OK"
+    },
+    {
+      "Id": 20,
+      "Aula_ID": 1,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-18914",
+      "Estado": "OK"
+    },
+    {
+      "Id": 21,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72959",
+      "Estado": "OK"
+    },
+    {
+      "Id": 22,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72947",
+      "Estado": "OK"
+    },
+    {
+      "Id": 23,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72948",
+      "Estado": "OK"
+    },
+    {
+      "Id": 24,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72888",
+      "Estado": "OK"
+    },
+    {
+      "Id": 25,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72939",
+      "Estado": "OK"
+    },
+    {
+      "Id": 26,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72921",
+      "Estado": "OK"
+    },
+    {
+      "Id": 27,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72901",
+      "Estado": "OK"
+    },
+    {
+      "Id": 28,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72882",
+      "Estado": "OK"
+    },
+    {
+      "Id": 29,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72931",
+      "Estado": "OK"
+    },
+    {
+      "Id": 30,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80523",
+      "Estado": "OK"
+    },
+    {
+      "Id": 31,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72863",
+      "Estado": "OK"
+    },
+    {
+      "Id": 32,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72896",
+      "Estado": "OK"
+    },
+    {
+      "Id": 33,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72904",
+      "Estado": "OK"
+    },
+    {
+      "Id": 34,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72907",
+      "Estado": "OK"
+    },
+    {
+      "Id": 35,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72946",
+      "Estado": "OK"
+    },
+    {
+      "Id": 36,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72941",
+      "Estado": "OK"
+    },
+    {
+      "Id": 37,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72878",
+      "Estado": "OK"
+    },
+    {
+      "Id": 38,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72949",
+      "Estado": "OK"
+    },
+    {
+      "Id": 39,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72895",
+      "Estado": "OK"
+    },
+    {
+      "Id": 40,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72875",
+      "Estado": "OK"
+    },
+    {
+      "Id": 41,
+      "Aula_ID": 3,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72891",
+      "Estado": "OK"
+    },
+    {
+      "Id": 42,
+      "Aula_ID": 3,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-16609",
+      "Estado": "OK"
+    },
+    {
+      "Id": 43,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72955",
+      "Estado": "OK"
+    },
+    {
+      "Id": 44,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-56529",
+      "Estado": "OK"
+    },
+    {
+      "Id": 45,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72937",
+      "Estado": "OK"
+    },
+    {
+      "Id": 46,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72919",
+      "Estado": "OK"
+    },
+    {
+      "Id": 47,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72925",
+      "Estado": "OK"
+    },
+    {
+      "Id": 48,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72922",
+      "Estado": "OK"
+    },
+    {
+      "Id": 49,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-92957",
+      "Estado": "OK"
+    },
+    {
+      "Id": 50,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72752",
+      "Estado": "OK"
+    },
+    {
+      "Id": 51,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-30-456944",
+      "Estado": "OK"
+    },
+    {
+      "Id": 52,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72917",
+      "Estado": "OK"
+    },
+    {
+      "Id": 53,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72944",
+      "Estado": "OK"
+    },
+    {
+      "Id": 54,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72942",
+      "Estado": "OK"
+    },
+    {
+      "Id": 55,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72799",
+      "Estado": "OK"
+    },
+    {
+      "Id": 56,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72723",
+      "Estado": "OK"
+    },
+    {
+      "Id": 57,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72860",
+      "Estado": "OK"
+    },
+    {
+      "Id": 58,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72950",
+      "Estado": "OK"
+    },
+    {
+      "Id": 59,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72919",
+      "Estado": "OK"
+    },
+    {
+      "Id": 60,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72945",
+      "Estado": "OK"
+    },
+    {
+      "Id": 61,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-36875",
+      "Estado": "OK"
+    },
+    {
+      "Id": 62,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72887",
+      "Estado": "OK"
+    },
+    {
+      "Id": 63,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-034-72930",
+      "Estado": "OK"
+    },
+    {
+      "Id": 64,
+      "Aula_ID": 4,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72926",
+      "Estado": "OK"
+    },
+    {
+      "Id": 65,
+      "Aula_ID": 4,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-16603",
+      "Estado": "OK"
+    },
+    {
+      "Id": 66,
+      "Aula_ID": 4,
+      "Tipo": "Pizarrón",
+      "Codigo": "I-304-45043",
+      "Estado": "OK"
+    },
+    {
+      "Id": 67,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135971",
+      "Estado": "OK"
+    },
+    {
+      "Id": 68,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135972",
+      "Estado": "OK"
+    },
+    {
+      "Id": 69,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "i-302-135954",
+      "Estado": "OK"
+    },
+    {
+      "Id": 70,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135983",
+      "Estado": "OK"
+    },
+    {
+      "Id": 71,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135977",
+      "Estado": "OK"
+    },
+    {
+      "Id": 72,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135980",
+      "Estado": "OK"
+    },
+    {
+      "Id": 73,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-137974",
+      "Estado": "OK"
+    },
+    {
+      "Id": 74,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135977",
+      "Estado": "OK"
+    },
+    {
+      "Id": 75,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135975",
+      "Estado": "OK"
+    },
+    {
+      "Id": 76,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135960",
+      "Estado": "OK"
+    },
+    {
+      "Id": 77,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135948",
+      "Estado": "OK"
+    },
+    {
+      "Id": 78,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135911",
+      "Estado": "OK"
+    },
+    {
+      "Id": 79,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135959",
+      "Estado": "OK"
+    },
+    {
+      "Id": 80,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135951",
+      "Estado": "OK"
+    },
+    {
+      "Id": 81,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135986",
+      "Estado": "OK"
+    },
+    {
+      "Id": 82,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135984",
+      "Estado": "OK"
+    },
+    {
+      "Id": 83,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135956",
+      "Estado": "OK"
+    },
+    {
+      "Id": 84,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135947",
+      "Estado": "OK"
+    },
+    {
+      "Id": 85,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135452",
+      "Estado": "OK"
+    },
+    {
+      "Id": 86,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135969",
+      "Estado": "OK"
+    },
+    {
+      "Id": 87,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-195964",
+      "Estado": "OK"
+    },
+    {
+      "Id": 88,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55860",
+      "Estado": "OK"
+    },
+    {
+      "Id": 89,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55867",
+      "Estado": "OK"
+    },
+    {
+      "Id": 90,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55862",
+      "Estado": "OK"
+    },
+    {
+      "Id": 91,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55864",
+      "Estado": "OK"
+    },
+    {
+      "Id": 92,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55854",
+      "Estado": "OK"
+    },
+    {
+      "Id": 93,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55863",
+      "Estado": "OK"
+    },
+    {
+      "Id": 94,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55869",
+      "Estado": "OK"
+    },
+    {
+      "Id": 95,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55868",
+      "Estado": "OK"
+    },
+    {
+      "Id": 96,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55866",
+      "Estado": "OK"
+    },
+    {
+      "Id": 97,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55867",
+      "Estado": "OK"
+    },
+    {
+      "Id": 98,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55858",
+      "Estado": "OK"
+    },
+    {
+      "Id": 99,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55859",
+      "Estado": "OK"
+    },
+    {
+      "Id": 100,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55861",
+      "Estado": "OK"
+    },
+    {
+      "Id": 101,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55856",
+      "Estado": "OK"
+    },
+    {
+      "Id": 102,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-304-55855",
+      "Estado": "OK"
+    },
+    {
+      "Id": 103,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135979",
+      "Estado": "OK"
+    },
+    {
+      "Id": 104,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135975",
+      "Estado": "OK"
+    },
+    {
+      "Id": 105,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135959",
+      "Estado": "OK"
+    },
+    {
+      "Id": 106,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135970",
+      "Estado": "OK"
+    },
+    {
+      "Id": 107,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135982",
+      "Estado": "OK"
+    },
+    {
+      "Id": 108,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-136006",
+      "Estado": "OK"
+    },
+    {
+      "Id": 109,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135961",
+      "Estado": "OK"
+    },
+    {
+      "Id": 110,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135954",
+      "Estado": "OK"
+    },
+    {
+      "Id": 111,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-135942",
+      "Estado": "OK"
+    },
+    {
+      "Id": 112,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-040",
+      "Estado": "OK"
+    },
+    {
+      "Id": 113,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-021",
+      "Estado": "OK"
+    },
+    {
+      "Id": 114,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-038",
+      "Estado": "OK"
+    },
+    {
+      "Id": 115,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-002",
+      "Estado": "OK"
+    },
+    {
+      "Id": 116,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-012",
+      "Estado": "OK"
+    },
+    {
+      "Id": 117,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-020",
+      "Estado": "OK"
+    },
+    {
+      "Id": 118,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-014",
+      "Estado": "OK"
+    },
+    {
+      "Id": 119,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-035",
+      "Estado": "OK"
+    },
+    {
+      "Id": 120,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-005",
+      "Estado": "OK"
+    },
+    {
+      "Id": 121,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-022",
+      "Estado": "OK"
+    },
+    {
+      "Id": 122,
+      "Aula_ID": 5,
+      "Tipo": "Mesa",
+      "Codigo": "3F-01-07-025",
+      "Estado": "OK"
+    },
+    {
+      "Id": 123,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80520",
+      "Estado": "OK"
+    },
+    {
+      "Id": 124,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80522",
+      "Estado": "OK"
+    },
+    {
+      "Id": 125,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72861",
+      "Estado": "OK"
+    },
+    {
+      "Id": 126,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80523",
+      "Estado": "OK"
+    },
+    {
+      "Id": 127,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80529",
+      "Estado": "OK"
+    },
+    {
+      "Id": 128,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80435",
+      "Estado": "OK"
+    },
+    {
+      "Id": 129,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80528",
+      "Estado": "OK"
+    },
+    {
+      "Id": 130,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80521",
+      "Estado": "OK"
+    },
+    {
+      "Id": 131,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80532",
+      "Estado": "OK"
+    },
+    {
+      "Id": 132,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72932",
+      "Estado": "OK"
+    },
+    {
+      "Id": 133,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80525",
+      "Estado": "OK"
+    },
+    {
+      "Id": 134,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80524",
+      "Estado": "OK"
+    },
+    {
+      "Id": 135,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80434",
+      "Estado": "OK"
+    },
+    {
+      "Id": 136,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72942",
+      "Estado": "OK"
+    },
+    {
+      "Id": 137,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80531",
+      "Estado": "OK"
+    },
+    {
+      "Id": 138,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80519",
+      "Estado": "OK"
+    },
+    {
+      "Id": 139,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-72951",
+      "Estado": "OK"
+    },
+    {
+      "Id": 140,
+      "Aula_ID": 6,
+      "Tipo": "Escritorio",
+      "Codigo": "I-304-80433",
+      "Estado": "OK"
+    },
+    {
+      "Id": 141,
+      "Aula_ID": 6,
+      "Tipo": "Mesa",
+      "Codigo": "I-302-10568",
+      "Estado": "OK"
+    },
+    {
+      "Id": 142,
+      "Aula_ID": 6,
+      "Tipo": "Mesa",
+      "Codigo": "I-328-136038",
+      "Estado": "OK"
+    },
+    {
+      "Id": 143,
+      "Aula_ID": 6,
+      "Tipo": "Mesa",
+      "Codigo": "I-328-136038",
+      "Estado": "OK"
+    }
+  ]
+}
